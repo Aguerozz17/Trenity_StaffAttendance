@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58426877941",
+    "project_id": "trenity-staff-attendance",
+    "storage_bucket": "trenity-staff-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58426877941:android:00ad56331444e0a1dc22bc",
+        "android_client_info": {
+          "package_name": "com.example.trenity_staffattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YV2MANaT1fubQOf92xwniTuO-LMgkl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
